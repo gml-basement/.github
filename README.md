@@ -1,4 +1,3 @@
-# gml-basement
-Hello there! danielpancake here
+# .github
 
-This is a collection of different GameMaker scripts, projects or/and small libraries, I've produced so far.
+Organization's special repo. One could even say, it's the basement's basement... 🤔
